@@ -17,7 +17,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: start;
-  width: 45%;
+  width: 45%; 
   min-height: 600px;
   background: white;
   text-align: center;
@@ -67,7 +67,7 @@ h1 {
   background: linear-gradient(
     90deg,
     rgba(127, 30, 238,1) 0%,
-    rgba(20, 159, 255, 1) 100%
+    rgba(216, 20, 255, 0.575) 100%
   );
   color: white;
   text-transform: capitalize;
@@ -87,7 +87,7 @@ h1 {
   color: white;
   background: linear-gradient(
     90deg,
-    rgba(20, 159, 255, 1) 0%,
+    rgba(127, 30, 238,0.89) 0%,
     rgba(127, 30, 238, 1)  100%
   );
   padding: 16px;
